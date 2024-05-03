@@ -1,0 +1,105 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+
+
+
+.body
+{
+ 
+   min-height:100vh;
+   display:flex;
+   justify-content: center;
+   align-items: center;
+   position: relative;
+
+
+}
+.body::before
+{
+content:'';
+background-image: url("https://free4kwallpapers.com/uploads/originals/2021/10/27/pangong-lake-ladakh.-wallpaper_.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+position: absolute;
+top:0;
+left:0;
+bottom:0;
+right:0;
+opacity:0.35;
+}
+.card2
+{
+    margin-top: 50px;
+    margin-right:30px;
+    margin-left: 30px;
+}
+.card1
+{
+    display:flex;
+    
+}
+.card3
+{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.carou
+{
+display:flexbox;
+  width: 1500px;
+  height:300px;
+  margin:0px;
+  padding:0px;
+}
+
+
+.main
+{
+   
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 2%;
+
+   
+}
+
+.box
+{
+    position: relative;
+    padding:50px;
+   
+    background: rgba(255,255,255,.2);
+    box-shadow:0 5px 15px rgba(0,0,0,0.5);
+}
+.card-title
+{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+    font-size: larger;
+    color: black;
+}
+.navbar{
+    margin:20px;
+
+}
+.second{
+color:rgb(163, 163, 203);
+}
+.third
+{
+    color:rgb(69, 69, 149);
+}
+p
+{
+    font-family:  sans-serif;
+}
+img
+{
+
+}
